@@ -33,3 +33,6 @@ Run the following command:
 
 mvn test
 
+## Report Generation
+
+Open index.html file in the TestOutput folder after running the tests (In a browser)
