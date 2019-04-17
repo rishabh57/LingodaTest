@@ -9,6 +9,8 @@ import com.lingoda.test.Base;
 
 public class AmazonPage extends Base {
 
+	// Just for illustration purpose
+
 	public WebDriver driver;
 	public AmazonPage(WebDriver driver){
 		this.driver = driver;		
