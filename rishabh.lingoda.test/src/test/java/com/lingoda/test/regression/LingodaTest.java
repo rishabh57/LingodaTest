@@ -14,7 +14,7 @@ public class LingodaTest {
 	  private String baseUrl;
 	  
 	  // Change the geckoDriverLocation according to your machine
-	  private String geckoDriverLocation="/Users/rishabh/Documents/Workspace2019/Lingoda/rishabh.lingoda.test/drivers/geckodriver/geckodriver";
+	  private String geckoDriverLocation="/Users/rishabh/git/LingodaTest/rishabh.lingoda.test/drivers/geckodriver/geckodriver";
 
 @BeforeClass(alwaysRun = true)
   public void setUp() throws Exception {
