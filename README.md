@@ -35,4 +35,4 @@ mvn test
 
 ## Report Generation
 
-Open index.html file in the TestOutput folder after running the tests (In a browser)
+Open index.html file with a browser in the TestOutput folder after running the tests
